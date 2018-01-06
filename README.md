@@ -1,3 +1,6 @@
+## SECURITY WARNNING: As of January 2018 this wallet is not actively maintained. It may not operate properly with the upstream core/node implementation and it may contain security and/or other vulnerabilities. It is therefore deprecated and should not be used!
+
+
 # Desktop GUI Wallet for [ZCash](https://z.cash/)[®](#disclaimer)
 
 ## Graphical user interface wrapper for the [ZCash](https://z.cash/)[®](#disclaimer) command line tools
