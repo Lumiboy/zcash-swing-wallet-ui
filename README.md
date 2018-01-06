@@ -1,4 +1,4 @@
-## SECURITY WARNNING: As of January 2018 this wallet is not actively maintained. It may not operate properly with the upstream core/node implementation and it may contain security and/or other vulnerabilities. It is therefore deprecated and should not be used!
+## SECURITY WARNING: As of January 2018 this software wallet is not actively maintained. It may not operate properly with the upstream core/node implementation and it may contain security and/or other vulnerabilities. It is deprecated and should not be used in production!
 
 
 # Desktop GUI Wallet for [ZCash](https://z.cash/)[®](#disclaimer)
